@@ -12,7 +12,7 @@ featured: true
 short: "Tiếp create natural videos supporting real estate, apartments advertising on facebook and youtube."
 tags:
   -
-date: 2021-03-08 08:00:00
+date: 2021-03-07 08:00:00
 image: /assets/images/blog/avatar.jpg
 header-image: /assets/images/blog/avatar.jpg
 header-image-alt: "Tiếp the Video Creator on facebook"

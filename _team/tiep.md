@@ -16,7 +16,7 @@ team-image:
   large: team/small/avatar.jpg
 published: true
 current-employee: true
-name: richard
+name: tiep
 bio: |
   Tiếp the Video Creator on facebook
 
@@ -30,7 +30,7 @@ Tiếp is the video creation page owned by Pham Xuan Tiep. In charge of behind t
 
 Child Safe, is the Partner Agency partner of Facebook.
 
-Details on Tiếp:
+Details on Tiếp
 
 Youtube https://www.youtube.com/channel/UCs0uOl852ygIMJQOwdCWZVg?sub_confirmation=1
 
